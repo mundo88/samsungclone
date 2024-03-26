@@ -1,0 +1,9 @@
+[submodule "samsungclone-be"]
+	path = samsungclone-be
+	url = https://github.com/mundo88/samsungclone-be.git
+[submodule "samsungclone-crawler"]
+	path = samsungclone-crawler
+	url = https://github.com/mundo88/samsungclone-crawler.git
+[submodule "samsungclone-fe"]
+	path = samsungclone-fe
+	url = https://github.com/mundo88/samsungclone-fe.git
